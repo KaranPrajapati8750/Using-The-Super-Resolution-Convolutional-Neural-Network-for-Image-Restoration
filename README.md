@@ -1,0 +1,2 @@
+# Using-The-Super-Resolution-Convolutional-Neural-Network-for-Image-Restoration
+The goal of super-resolution (SR) is to recover a high resolution image from a low resolution input. To accomplish this goal, we will be deploying the super-resolution convolution neural network (SRCNN) using Keras. This network was published in the paper, "Image Super-Resolution Using Deep Convolutional Networks" by Chao Dong, et al. in 2014.
